@@ -1,9 +1,9 @@
 # DermaLite AI: Edge-AI Skin Disease Screening prototype
 
 ## Team Details
-* **Team Name**: Ctrl+Alt+Del [cite: 93]
-* **Team Leader**: Lokesh Kiruala [cite: 94]
-* **Project**: AMD Slingshot 2026 Submission [cite: 88, 96]
+* **Team Name**: Ctrl+Alt+Del 
+* **Team Leader**: Lokesh Kiruala 
+* **Project**: AMD Slingshot 2026 Submission
 
 ## Project Overview
 DermaLite AI is a hybrid edge-AI skin disease detection system designed for real-time, image-based analysis. [cite_start]Unlike traditional cloud-dependent tools, our solution performs fast, privacy-preserving inference directly on-device. It is specifically built to support early detection in low-resource and rural settings where constant internet connectivity is unavailable.

@@ -46,5 +46,6 @@ DermaLite AI solves these challenges by utilizing **AMD Ryzen AI** hardware for 
 2. Install the necessary dependencies:
    ```bash
    pip install onnxruntime-directml streamlit torch
+3. Run the application:
    ```bash
    streamlit run app.py
